@@ -1,10 +1,10 @@
 // Images in an array
 let images = [
-  "Assets/img/Image1.jpg",
-  "Assets/img/Image2.jpg",
-  "Assets/img/Image3.jpg",
-  "Assets/img/Image4.jpg",
-  "Assets/img/Image5.jpg",
+  "img/Image1.jpg",
+  "img/Image2.jpg",
+  "img/Image3.jpg",
+  "img/Image4.jpg",
+  "img/Image5.jpg",
 ];
 
 // To keep track of the current image index
